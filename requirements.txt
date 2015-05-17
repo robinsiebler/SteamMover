@@ -1,2 +1,2 @@
-cx_Freeze
+cx_Freeze>=4.3.4
 PySide>=1.2.1
