@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>g5_vpc_drive.ico</file>
+    <file>backward.ico</file>
+    <file>forward.ico</file>
+    <file>refresh.ico</file>
+    <file>search.ico</file>
+    <file>Steam.ico</file>
+  </qresource>
+</RCC>
